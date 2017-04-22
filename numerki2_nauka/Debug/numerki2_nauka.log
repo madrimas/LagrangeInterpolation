@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\zapio\documents\visual studio 2017\projects\numerki2_nauka\numerki2_nauka\main.cpp(68): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\zapio\documents\visual studio 2017\projects\numerki2_nauka\numerki2_nauka\main.cpp(71): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  numerki2_nauka.vcxproj -> C:\Users\zapio\documents\visual studio 2017\Projects\numerki2_nauka\Debug\numerki2_nauka.exe
+  numerki2_nauka.vcxproj -> C:\Users\zapio\documents\visual studio 2017\Projects\numerki2_nauka\Debug\numerki2_nauka.pdb (Partial PDB)
